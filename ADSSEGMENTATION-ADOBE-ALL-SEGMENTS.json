@@ -1,0 +1,42 @@
+[
+  {
+    "name": "record_type",
+    "type": "INTEGER"
+  },
+  {
+    "name": "segment_id",
+    "type": "string"
+  },
+  {
+    "name": "segment_name",
+    "type": "string"
+  },
+  {
+    "name": "adobe_segment_description",
+    "type": "string"
+  },
+  {
+    "name": "adobe_segment_status",
+    "type": "string"
+  },
+  {
+    "name": "organisation_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "organisation",
+    "type": "string"
+  },
+  {
+    "name": "rule_query",
+    "type": "String"
+  },
+  {
+    "name": "created_on",
+    "type": "timestamp"
+  },
+  {
+    "name": "updated_on",
+    "type": "timestamp"
+  }
+]

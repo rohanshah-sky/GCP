@@ -9,7 +9,7 @@
   },
     {
     "name": "Parameter_character",
-    "type": "double"
+    "type": "numeric"
   },
     {
     "name": "Parameter_timestamp",

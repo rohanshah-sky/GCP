@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Parameter_name",
+    "type": "string"
+  },
+  {
+    "name": "Parameter_integer",
+    "type": "INTEGER"
+  },
+    {
+    "name": "Parameter_character",
+    "type": "double"
+  },
+    {
+    "name": "Parameter_timestamp",
+    "type": "timestamp"
+  },
+    {
+    "name": "Parameter_double_precision",
+    "type": "string"
+  },
+    {
+    "name": "Parameter_date_from",
+    "type": "timestamp"
+  },
+    {
+    "name": "Parameter_date_to",
+    "type": "timestamp"
+  }
+  
+]
